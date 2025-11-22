@@ -1,3 +1,8 @@
+# **Integrantes do Trabalho**
+Daniel Gomes Pereira **RA22023582**
+
+Murilo Nazaré Ferraz de Mello **RA23000517**
+
 # Projeto de Demonstração de Padrões de Projeto - Sistema de Cafeteria
 
 Este projeto é uma implementação prática de diversos padrões de projeto do "Gang of Four" (GoF), aplicados ao domínio de um sistema de pedidos para uma cafeteria. O objetivo é demonstrar como esses padrões ajudam a criar um software mais flexível, manutenível e escalável, seguindo as melhores práticas de arquitetura de software.
