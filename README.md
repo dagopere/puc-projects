@@ -24,10 +24,6 @@ A tabela abaixo detalha os padrões de projeto utilizados, os arquivos onde suas
 
 Para executar a demonstração do sistema, siga os passos abaixo.
 
-### Pré-requisitos
-
-- Python 3.7 ou superior.
-
 ### Execução
 
 1.  Clone ou faça o download deste repositório.
